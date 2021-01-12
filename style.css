@@ -8,7 +8,7 @@
 }
 
 .page {
-  display: flex;
+  display: absolute;
   flex-direction: column;
   min-width: 640px;
   min-height: 100vh;
